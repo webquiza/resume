@@ -1,4 +1,4 @@
-body {
+body, .footer {
   font-family: 'Roboto', sans-serif;
   margin: 2em auto;
   max-width: 760px;
@@ -32,3 +32,4 @@ a {
   background-color: black;
   color: white;
 }
+
