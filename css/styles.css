@@ -5,6 +5,10 @@ body {
   width: 65%;
 }
 
+a {
+  color: black;
+}
+
 .contact-info {
   text-align: center;
 }
