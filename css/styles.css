@@ -1,4 +1,4 @@
-body, .footer {
+body {
   font-family: 'Roboto', sans-serif;
   margin: 2em auto;
   max-width: 760px;
@@ -9,11 +9,11 @@ a {
   color: black;
 }
 
-.contact-info {
+.center {
   text-align: center;
 }
 
-.summary-info {
+.summary {
   text-align: left;
 }
 
