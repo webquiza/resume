@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: Public Sans, sans-serif;
   margin: 2em auto;
   max-width: 760px;
   width: 65%;
@@ -8,6 +8,21 @@ body {
 a {
   color: black;
 }
+
+.organization {
+  font-weight: 800;
+}
+
+.position, .duration {
+  font-weight: 300;
+  font-size: smaller;
+}
+
+/*
+.duration {
+  font-size: smaller;
+}
+*/
 
 .center {
   text-align: center;
