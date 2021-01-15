@@ -5,6 +5,8 @@ body {
   width: 65%;
 }
 
+*:focus {outline:none !important}
+
 a {
   color: black;
 }
