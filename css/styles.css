@@ -5,9 +5,7 @@ body {
   width: 65%;
 }
 
-*:focus {outline:none !important}
-
-a {
+a, a:hover {
   color: black;
 }
 
@@ -28,23 +26,3 @@ a {
   text-align: left;
 }
 
-.button {
-  background-color: white;
-  border-radius: 12px;
-  color: black;
-  padding: 10px 24px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 1opx;
-}
-
-.button:hover {
-  background-color: black;
-  color: white;
-}
-
-.skills {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
-}
